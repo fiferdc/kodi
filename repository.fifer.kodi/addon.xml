@@ -5,9 +5,9 @@
     </requires>
     <extension point="xbmc.addon.repository" name="Fifer Kodi Repository">
         <dir>
-            <info>https://github.com/fiferdc/kodi/addons.xml</info>
-            <checksum>https://github.com/fiferdc/kodi/addons.xml.md5</checksum>
-            <datadir>https://github.com/fiferdc/kodi</datadir>
+            <info>https://raw.githubusercontent.com/fiferdc/kodi/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/fiferdc/kodi/main/addons.xml.md5</checksum>
+            <datadir>https://raw.githubusercontent.com/fiferdc/kodi/main/</datadir>
             <hashes>sha256</hashes>
         </dir>
     </extension>
